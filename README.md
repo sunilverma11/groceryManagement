@@ -1,5 +1,5 @@
 
-<h3>It's a solo project❤</h3>
+<h3>It's a solo project</h3>
    <a href="https://github.com/sunilverma11">Sunil Kumar Verma</a><br>
    <h3>Features:</h3>
       <ul>

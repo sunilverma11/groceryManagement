@@ -1,3 +1,23 @@
+
+<h3>It's a solo project❤️</h3>
+   <a href="https://github.com/sunilverma11">Arundhathi R Menon</a><br>
+   <h3>Features:</h3>
+      <ul>
+            <li> Users can add the grocery items.</li>
+            <li> Users can toggle between bought or pending grocery item.</li>
+            <li>Users can see all the grocery items that were added to the app.</li>
+<!--             <li>Users can delete any todo from the list.</li></ul> -->
+ <h3>Tool kits I've used to build this project: 🛠</h3>
+  <ul>
+            <li>React</li>
+           <li>JavaScript</li>
+            <li>HTML</li>
+            <li>CSS</li></ul>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
